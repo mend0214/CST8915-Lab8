@@ -1,7 +1,7 @@
 # Lab 8 - CST8915 Full-stack Cloud-native Development: Deploying and Managing the Algonquin Pet Store
 
 ## Youtube Link
-https://youtu.be/TKJHTVzEA84
+https://youtu.be/UU15XJh_WTE
 
 ## Task 2
 ### MongoDB
@@ -39,11 +39,6 @@ Mounted it in `volumeMounts`:
 - name: rabbitmq-data
   mountPath: /var/lib/rabbitmq
 ```
-
-
-
-
-### RabbitMQ
 
 
 ### Azure services that could replace MongoDB and RabbitMQ
